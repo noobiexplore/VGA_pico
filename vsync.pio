@@ -63,4 +63,4 @@ backporch:
         // Set the state machine running (commented out so can be synchronized with hsync)
         // pio_sm_set_enabled(pio, sm, true);
     }
-}
+%}

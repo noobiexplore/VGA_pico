@@ -40,4 +40,4 @@ colorout:
         // Load configuration and jump to the start of the program
         pio_sm_init(pio, sm, offset, &c);
     }
-}
+%}

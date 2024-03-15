@@ -54,4 +54,4 @@ backporch:
         // Load our configuration and jump to the start of our program
         pio_sm_init(pio, sm, offset, &c);
     }
-}
+%}
